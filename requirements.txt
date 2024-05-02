@@ -1,0 +1,11 @@
+llama-index-embeddings-langchain
+llama-index
+langchain
+sentence-transformers
+pypdf
+transformers
+einops
+accelerate
+langchain
+bitsandbytes
+llama-index-llms-huggingface
